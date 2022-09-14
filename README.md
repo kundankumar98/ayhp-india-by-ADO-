@@ -1,2 +1,2 @@
 # ayhp-india-by-ADO-
-Demo website using html and css
+Responsive demo website using html and css
